@@ -1,0 +1,159 @@
+{
+    "home": {
+        "portuguese": "Português",
+        "english": "Inglês",
+        "title": "A Nossa Missão",
+        "subtitle": "Conectar iniciantes a especialistas em um ambiente que preza pela diversidade e pelo compartilhamento do conhecimento em Segurança da Informação.",
+        "select_language": "Selecione uma linguagem",
+        "buttom": "Cadastre-se"
+    },
+    "objective": {
+        "title": "O Nosso Sonho",
+        "subtitle": "Ser a maior comunidade Open Source em Segurança da Informação"
+    },
+    "about": {
+        "title": "Nossos Valores",
+        "empatia": "EMPATIA",
+        "empatia_subtitle": "É a base dos nossos relacionamentos que transforma e impulsiona o bem-estar e a harmonia em nossa comunidade",
+        "etica": "ÉTICA",
+        "etica_subtitle": "Agimos com integridade, transparência e responsabilidade em todas as nossas ações, cultivando a confiança e o respeito mútuo",
+        "comunidade": "SENSO DE COMUNIDADE",
+        "comunidade_subtitle": "Temos o compromisso de promover um ambiente inclusivo, colaborativo e solidário, onde os membros se sintam parte de uma mesma família"
+    },
+    "experts": {
+        "title": "Especialistas",
+        "supporter": "Apoiador",
+        "specialist": "Especialista"
+    },
+    "sponsors": {
+        "title": "Patrocinadores",
+        "supporters": "Apoiadores",
+        "position": "Fundador",
+        "description": "Especialista em Cibersegurança",
+        "buttom": "Conheça",
+        "it2sgroup": "O IT2S Group é uma opção inovadora em Segurança da Informação e Privacidade de Dados (LGPD) para startups que devem cumprir os requisitos do mercado sem perder a agilidade dos negócios. Atuamos diretamente como equipe de segurança dos nossos clientes, desde a gestão estratégica com os módulos de DPOaaS e vCISO, até a gestão operacional com pentests, desenvolvimento seguro de aplicações. Nosso objetivo é inovar o relacionamento entre as atividades de segurança e privacidade com a rotina diária de pessoas e organizações, tornando essas disciplinas acessíveis a empresas de todos os tamanhos. Para empresas que buscam atender às necessidades de segurança e privacidade ou que desejam inovar suas atividades nessas áreas com um custo baixo.",
+        "sec4us": "Temos os treinamentos especializados em Segurança Ofensiva e Forense Digital com uma metodologia especializada e focada para que você possa entender de forma clara e definitiva cada um dos conceitos demonstrados. Levamos excelência aos profissionais, através de conteúdo atualizado, com laboratório virtual, que favorecerá o aluno colocar em prática todo o aprendizado teórico, verificar e sanar suas dúvidas.",
+        "afd": "A Academia de Forense Digital (ADF) nasceu no ano de 2016, com a missão de apoiar o desenvolvimento e a boa condução da Justiça em nosso país, através da educação e do compartilhamento de conhecimentos na área de Segurança da Informação, Resposta a Incidentes e Forense Digital e em conjunto, possibilitar o ingresso e desenvolvimento das carreiras de profissionais da área e estudantes.",
+        "vincit": "Visando à formação e o encantamento pela profissão, propomos programas de Graduação e Pós-graduação altamente qualificados e adequados ao exigente mercado de trabalho. A palavra-chave é Inovação, pois “pensar fora da caixa” é a capacidade de renovação constante por meio do conhecimento, e, acima de tudo inovar para competir.",
+        "4linux": "Somos a mais renomada e experiente empresa brasileira de consultoria open software. Desde 2001, trabalhamos com Linux e Open Source. Somos a empresa certa para fazer ‘a ponte’ entre as comunidades de software open source e o mundo corporativo, tanto na versão ‘community’ como na versão ‘enterprise’."
+    },
+    "login": {
+        "title": "Conheça nossa comunidade!",
+        "subtitle": "Clique no botão abaixo e cadastre-se.",
+        "button": "Acessar"
+    },
+    "header": {
+        "especialistas": "Especialistas",
+        "mentorados": "Mentorados",
+        "patrocinadores": "Patrocinadores"
+    },
+    "footer": {
+        "title": "Política de Privacidade"
+    },
+    "variants": {
+        "forensic_expert": "Especialista Forense"
+    },
+    "members": {
+        "ricardo": {
+            "title": "Fundador",
+            "subtitle": "Especialista em Cibersegurança",
+            "description": "Pentester | Threat Intel | Threat Hunting | SOC  Incident Respond | Treinamentos"
+        },
+        "marcela": {
+            "title": "Cofundadora",
+            "subtitle": "Especialista em Direito Digital",
+            "description": "Advogada | Compliance | Community Manager | Embaixadora Ventiur"
+        },
+        "pamela": {
+            "title": "Coordenadora de Governança",
+            "description": "Coordenadora Governança de TI na Ativy Digital | PCI DSS"
+        },
+        "renan": {
+            "title": "Especialista Forense",
+            "description": "Apoiador"
+        },
+        "helder": {
+            "title": "Especialista Educacional",
+            "description": "Apoiador"
+        },
+        "juliano": {
+            "description": "Especialista"
+        },
+        "le": {
+            "description": "Especialista"
+        },
+        "cindy": {
+            "title": "Analista de Recursos Humanos",
+            "description": "Especialista"
+        },
+        "ramon": {
+            "title": "Especialista em GRC",
+            "description": "Especialista"
+        },
+        "caio": {
+            "description": "Especialista"
+        },
+        "rafael": {
+            "description": "Especialista"
+        },
+        "ben_hur": {
+            "title": "Especialista App. Security",
+            "description": "Especialista"
+        },
+        "ligia": {
+            "description": "Especialista"
+        },
+        "bruno": {
+            "description": "Especialista"
+        },
+        "allan": {
+            "description": "Especialista"
+        },
+        "renan_medeiro": {
+            "description": "Especialista"
+        },
+        "matheus": {
+            "description": "Especialista"
+        },
+        "sylvio": {
+            "title": "Especialista em GRC",
+            "description": "Especialista"
+        },
+        "evelyn": {
+            "description": "Especialista"
+        },
+        "helena": {
+            "title": "Especialista App. Security",
+            "description": "Especialista"
+        },
+        "andreia": {
+            "title": "Perita Criminal Polícia Federal",
+            "description": "Especialista"
+        }
+    },
+    "privacy_policy": {
+        "title": "Política de Privacidade",
+        "chapter_one": "CAPÍTULO I. INTRODUÇÃO",
+        "paragraphy_one": "1.1. Nós, da Hack Your Future, reconhecemos a importância da privacidade e proteção dos dados pessoais e desejamos que você se familiarize com a maneira como coletamos, armazenamos e tratamos os seus dados. 1.2. A Hack Your Future está empenhada em respeitar sua privacidade e reconhecer sua necessidade de adequada proteção e gestão de quaisquer informações de identificação pessoal (“Dados Pessoais”) que você venha a compartilhar conosco. 1.3. A nossa Política de Privacidade tem o objetivo demonstrar o compromisso com a segurança e a privacidade das informações coletadas por meio de cadastro de usuários no site e plataforma para webinar. 1.4. O tratamento de dados pessoais realizado está sujeito à legislação brasileira, em especial a Lei nº 13.709/2018, conforme alterada (“LGPD” ou “Lei Geral Proteção de Dados”) e observa os seguintes princípios: (a) limitação de uso de dados pessoais ao extremamente necessário para atender aos propósitos empresariais; (b) acesso aos dados pessoais apenas por pessoas imprescindíveis e eliminação de dados quando não mais necessários; (c) cuidado adicional no tratamento de dados pessoais sensíveis; (d) transparência com clientes, parceiros e colaboradores; (e) segurança dos dados pessoais; e (f) estabelecimento de contrato de tratamento de dados pessoais com terceiros.",
+        "chapter_two": "CAPÍTULO II. CONCEITOS BÁSICOS",
+        "paragraphy_two": "2.1.   Para facilitar seu entendimento apresentamos algumas definições úteis para a sua interpretação: (a) Bases legais: São as hipóteses legais que nos autorizam a Tratar Dados Pessoais: pode ser o seu consentimento, ou cumprimento de uma obrigação legal, por exemplo; (b) Consentimento: É a hipótese que autoriza o Tratamento de Dados Pessoais com base na manifestação livre, informada e inequívoca do Titular ao concordar com o Tratamento de seus Dados Pessoais para uma finalidade específica, informada por nós; (c) Cookies: São pequenos arquivos que transferimos para o seu navegador ou dispositivo (como celular ou tablet) que nos permitem reconhecer o seu navegador ou dispositivo, e saber como e quando as páginas e a Plataformas são visitadas, bem como quantas pessoas acessam as Plataformas. Eles podem ser úteis para, por exemplo, fazermos as Plataformas se encaixarem na sua tela, entender melhor as suas preferências e lhe oferecer Produtos, Negócios e Experiências mais eficientes; (d) Dado Pessoal ou Dado: É o dado relativo a uma pessoa física, que seja capaz de identificar a pessoa ou tornar possível a sua identificação. São exemplos de Dados Pessoais que permitem a sua identificação: Nome, CPF, RG, endereço, telefone celular, e-mail etc.; (e) Dado sensível: É qualquer informação sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural; e (f) Encarregado: É o nosso Encarregado de Proteção de Dados Pessoais (Data Protection Officer), que atua como canal de comunicação entre a Hack Your Future, os Titulares dos Dados e a Autoridade Nacional de Proteção de Dados (“ANPD”), quando o assunto é a proteção dos seus Dados Pessoais.",
+        "chapter_three": "CAPÍTULO III. QUAIS SÃO OS SEUS DIREITOS",
+        "paragraphy_three": "3.1. Os Dados Pessoais são seus e a lei brasileira garante que você tenha uma série de direitos relacionados a eles. Nós estamos comprometidos com o cumprimento desses direitos e, nesta seção, vamos explicar como você pode exercê-los junto a Hack Your Future. A lei brasileira lhe garante os seguintes direitos: (a) Confirmação e Acesso – Permite que você possa verificar se a Hack Your Future trata dados pessoais seus e, em caso positivo, requisitar uma cópia dos dados pessoais que nós temos sobre você. (b) Correção – Permite que você solicite a correção dos seus Dados Pessoais incompletos, inexatos ou desatualizados. (c) Anonimização, bloqueio ou eliminação – Permite que você nos peça para: (i) anonimizar seus dados, de forma a que eles não possam mais ser relacionados a você e, portanto, deixem de ser Dados Pessoais; (ii) bloquear seus Dados, suspendendo temporariamente a sua possibilidade de tratarmos; e (iii) eliminar seus Dados, caso em que apagaremos todos os seus Dados sem possibilidade de reversão, salvo os casos previstos em lei. (d) Portabilidade – Você tem o direito de solicitar, mediante requisição expressa, que a Hack Your Future forneça a você, os seus Dados Pessoais em formato estruturado e interoperável. (e) Informação sobre o compartilhamento – Você tem o direito de saber as entidades públicas e privadas com as quais a Hack Your Future realiza uso compartilhado de dados. Se você tiver dúvidas ou quiser maiores detalhes, você tem o direito de nos solicitar essas informações. (f) Informação sobre a possibilidade de não consentir – Permite que você tenha informações claras e completas sobre a possibilidade e as consequências de não fornecer consentimento. O seu consentimento, quando necessário, deve ser livre e informado. Portanto, sempre que pedirmos seu consentimento, você será livre para negá-lo. (g) Revogação do consentimento – Você tem o direito de retirar o seu consentimento em relação às atividades de tratamento que se baseiam nessa Base Legal. No entanto, isso não afetará a legalidade de qualquer tratamento realizado anteriormente. Se você retirar o seu consentimento, talvez não possamos fornecer determinadas experiências. (h) Oposição – A Lei Geral de Proteção de Dados autoriza o Tratamento de Dados Pessoais mesmo sem o seu consentimento. Nesse caso, é preciso demonstrar que há motivos legítimos para Tratar seus Dados, como, por exemplo, prevenir fraudes ou melhorar nossa comunicação com você. Caso você não concorde com esse Tratamento, poderá se opor a ele, solicitando a interrupção.",
+        "chapter_four": "CAPÍTULO IV. INFORMAÇÕES QUE COLETAMOS",
+        "paragraphy_four": "4.1. A Hack Your Future aqui denominada “Controladora”, assume o compromisso de coletar o mínimo de dados possível. Nunca coletaremos dados pessoais desnecessários de você e não trataremos suas informações de quaisquer outras formas que não as especificadas nesta política. 4.2. A Hack Your Future coleta os seguintes tipos de dados pessoais (i) fornecidos diretamente por você, (ii) coletados automaticamente sobre você: (a) Dados fornecidos diretamente por você: São as informações que você insere ativamente em um dos formulários de contato do site, redes sociais, landing pages e ou webinars como nome completo e e-mail. Dados cadastrais na nossa comunidade para login: nome completo, e-mail, perfil no LinkedIn, estado de atuação profissional, foto objetiva identificar-lhe para a sua divulgação, como membro, no website. Também é possível o tratamento de seus dados para lhe prestar serviços, possibilitar a sua vinculação a comitês de estudo, enviar atualizações da Hack Your Future (notícias, eventos, cursos e informações sobre parcerias com empresas), responder suas consultas. (b) Dados em um dos formulários de inscrição nos newsletters dos eventos e/ou do newsletter da Hack Your Future. (c) Dados coletados automaticamente: São as informações coletadas automaticamente sobre você ao utilizar o site, como endereço de IP (com data e hora), tipo de dispositivo utilizado para acessar o site, tipo de navegador utilizado, localização de seu dispositivo, número identificador do seu dispositivo, sequência de cliques, páginas acessadas e buscas realizadas.",
+        "chapter_five": "CAPÍTULO V. COMO UTILIZAMOS SEUS DADOS",
+        "paragraphy_five": "5.1. Nós, da Hack Your Future, prezamos muito pela sua privacidade. Por isso, todos os dados e informações sobre você são tratados como confidenciais, e somente utilizaremos essas informações para os fins aqui descritos e autorizados por você. 5.2. Nós, da Hack Your Future, prezamos pelas suas informações e observamos de forma estrita os limites e condições apresentados pela Lei Geral de Proteção de Dados. 5.3.   Se você consentiu em receber nossas comunicações, poderá revogar este consentimento a qualquer momento. As finalidades e as razões para o tratamento de seus dados pessoais estão detalhadas abaixo: (a) Envio de emails de confirmação da inscrição, materiais complementares, pesquisas de avaliação e outras informações sobre os eventos online; (b) Comunicação – Os dados pessoais coletados também serão utilizados para que possamos enviar avisos e notificações importantes relacionados a você, como alterações dessa Política. Os dados pessoais serão ainda utilizados para responder a quaisquer interações suas conosco; (c) Elaboração de listas de inscritos; (d) Comunicação sobre as próximas edições de eventos online; 5.4. Ainda, os dados pessoais poderão ser utilizados para melhor compreender os seus gostos e interesses e, assim, enviar informações mais relevantes para você. Podemos precisar do seu consentimento para algumas dessas atividades e, assim, seu consentimento será oportunamente solicitado. Sem prejuízo, oferecemos diversas maneiras para você cancelar o recebimento de nossos comunicados dessa natureza por e-mail a qualquer momento, selecionando o link de cancelar assinatura ao final de comunicações eletrônicas. Você pode solicitar a exclusão dos seus dados a qualquer momento conforme os direitos do Titular previstos na legislação vigente.",
+        "chapter_six": "CAPÍTULO VI. EXCLUSÃO DOS DADOS",
+        "paragraphy_six": "6.1. Todos os dados coletados serão excluídos de nossos servidores quando você assim requisitar, por procedimento gratuito e facilitado.",
+        "chapter_seven": "CAPÍTULO VII. COMPARTILHAMENTO DE SEUS DADOS",
+        "paragraphy_seven": "7.1. A Hack Your Future somente compartilhará seus dados pessoais com aqueles que tenham necessidade legítima. Não compartilhamos ou divulgamos nenhum dado pessoal seu sem o seu consentimento, exceto para os fins especificados nesta política ou quando houver uma exigência legal. Os operadores que atuam em nosso nome apenas tratam seus dados de acordo com nossas instruções e cumprem integralmente esta política, bem como as legislações de proteção de dados e quaisquer outras medidas de confidencialidade e segurança apropriadas. 7.2. Nossos fornecedores e parceiros – Contamos com a ajuda de fornecedores que podem tratar Dados Pessoais que coletamos. Sempre buscamos avaliar cuidadosamente nossos fornecedores e firmar com eles obrigações contratuais de segurança da informação e proteção de Dados Pessoais, com o objetivo de minimizar riscos para o Titular de Dados. A Hack Your Future realiza o uso compartilhado de dados pessoais dos membros com empresa provedora de serviço de hospedagem da plataforma (data center), prestadores de serviço para a manutenção da plataforma, prestadores de serviço de hospedagem de e-mail. 7.3 Usamos o Google Analytics para gerar relatórios e melhorar a performance do nosso site. Veja aqui a política de privacidade do Google. 7.4 A série de eventos online da Hack Your Future ocorre na plataforma YouTube, não sendo necessário realizar inscrição prévia para desfrutar das transmissões ao vivo. Porém, é necessário que você tenha uma conta na plataforma de sua escolha para usufruir do evento. Os dados usados para cadastro nas plataformas são de responsabilidade das próprias e estão fora do controle da Hack Your Future; recomendamos que você leia a Política de Privacidade do YouTube para aprender mais sobre os esforços da empresa para proteger seus dados e como exercer seus direitos de Titular. 7.5 A comunidade Hack My Future possui uma loja online na Montink que fornece artigos personalizados da marca. Veja aqui a política de privacidade do Montink.",
+        "chapter_eigth": "",
+        "paragraphy_eigth": "",
+        "chapter_nine": "CAPÍTULO IX. SEGURANÇA DOS DADOS PESSOAIS",
+        "paragraphy_nine": "9.1. A Hack Your Future está empenhada em proteger a segurança de seus dados pessoais. Utilizamos uma vasta gama de tecnologias e procedimentos de segurança para ajudar a proteger seus dados pessoais contra acesso, utilização ou divulgação não autorizados. Por exemplo, armazenamos os dados pessoais que você fornece em servidores com acesso limitado que estão localizados em instalações controladas. 9.2. Mantemos a segurança das suas informações aplicando medidas administrativas, técnicas e físicas para proteger os dados pessoais contra perda, roubo, uso indevido, bem como contra acesso não autorizado, divulgação, alteração e destruição.",
+        "chapter_ten": "CAPÍTULO X. POR QUANTO TEMPO OS DADOS SERÃO ARMAZENADOS",
+        "paragraphy_ten": "10.1. Nós manteremos seus dados pessoais somente pelo tempo que for necessário para cumprir com as finalidades para as quais os coletamos. 10.2. ACONSELHAMOS VOCÊ A REVISAR ESTA POLÍTICA DE PRIVACIDADE PERIODICAMENTE PARA QUAISQUER ALTERAÇÕES. AS ALTERAÇÕES A ESTA POLÍTICA DE PRIVACIDADE ENTRAM EM VIGOR QUANDO PUBLICADAS NESTA PÁGINA.",
+        "chapter_eleven": "CAPÍTULO XI. COMO FALAR COM A HACK YOUR FUTURE",
+        "paragraphy_eleven": "11.1 Para exercer seus direitos você pode entrar em contato conosco por meio do e-mail compliance@ihackmyfuture.com. 11.2. Se você tiver alguma dúvida sobre a coleta e o processamento de seus dados pessoais, você pode entrar em contato conosco por meio do e-mail compliance@ihackmyfuture.com. 11.3. Nosso Encarregado de Proteção de Dados Pessoais (Artigo 41 – Lei 13.709/2018 – LGPD): Ricardo Rocha, Marcela Castro, Pamela Barros. Última atualização: 03 de julho de 2023."
+    }
+}

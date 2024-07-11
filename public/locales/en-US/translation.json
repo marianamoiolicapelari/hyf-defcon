@@ -1,0 +1,159 @@
+{
+    "home": {
+        "portuguese": "Portuguese",
+        "english": "English",
+        "title": "Our Mission",
+        "subtitle": "Connecting beginners to experts in an environment that values ​​diversity and sharing knowledge in Information Security.",
+        "select_language": "Select a language",
+        "buttom": "Register"
+    },
+    "objective": {
+        "title": "Our Dream",
+        "subtitle": "To be the largest Open Source community in Information Security"
+    },
+    "about": {
+        "title": "Our Values",
+        "empatia": "EMPATHY",
+        "empatia_subtitle": "It is the foundation of our relationships that transforms and drives well-being and harmony in our community",
+        "etica": "ETHIC",
+        "etica_subtitle": "We act with integrity, transparency and responsibility in all our actions, cultivating trust and mutual respect",
+        "comunidade": "SENSE OF COMMUNITY",
+        "comunidade_subtitle": "We are committed to promoting an inclusive, collaborative and supportive environment, where members feel part of the same family"
+    },
+    "experts": {
+        "title": "Experts",
+        "supporter": "Supporter",
+        "specialist": "Specialist"
+    },
+    "sponsors": {
+        "title": "Sponsors",
+        "supporters": "Supporters",
+        "position": "Founder",
+        "description": "Cybersecurity Specialist",
+        "buttom": "Get to Know Us",
+        "it2sgroup": "IT2S Group is an innovative option in Information Security and Data Privacy (LGPD) for startups that must meet market requirements without losing business agility. We act directly as our clients' security team, from strategic management with the DPOaaS and vCISO modules, to operational management with pen tests and secure application development. Our goal is to innovate the relationship between security and privacy activities and the daily routine of people and organizations, making these disciplines accessible to companies of all sizes. For companies that seek to meet security and privacy needs or that wish to innovate their activities in these areas at a low cost.",
+        "sec4us": "We have specialized training in Offensive Security and Digital Forensics with a specialized and focused methodology so that you can clearly and definitively understand each of the concepts demonstrated. We bring excellence to professionals, through updated content, with a virtual laboratory, which will help students put all theoretical learning into practice, verify and resolve their doubts.",
+        "afd": "The Digital Forensic Academy (ADF) was born in 2016, with the mission of supporting the development and good conduct of Justice in our country, through education and sharing of knowledge in the area of ​​Information Security, Incident Response and Digital Forensics and together, enable the entry and development of the careers of professionals in the area and students.",
+        "vincit": "Aiming at training and enchantment with the profession, we offer highly qualified Undergraduate and Postgraduate programs suitable for the demanding job market. The keyword is Innovation, as “thinking outside the box” is the capacity for constant renewal through knowledge, and, above all, innovating to compete.",
+        "4linux": "We are the most renowned and experienced Brazilian open software consultancy company. Since 2001, we have worked with Linux and Open Source. We are the right company to form a ‘bridge’ between open source software communities and the corporate world, both in the ‘community’ and ‘enterprise’ versions."
+    },
+    "login": {
+        "title": "Meet our community!",
+        "subtitle": "Click the button below and register.",
+        "button": "Access"
+    },
+    "header": {
+        "especialistas": "Experts",
+        "mentorados": "Mentees",
+        "patrocinadores": "Sponsors"
+    },
+    "footer": {
+        "title": "Privacy Policy"
+    },
+    "variants": {
+        "forensic_expert": "Forensic Expert"
+    },
+    "members": {
+        "ricardo": {
+            "title": "Founder",
+            "subtitle": "Cybersecurity Specialist",
+            "description": "Pentester | Threat Intel | Threat Hunting | SOC Incident Response | Training"
+        },
+        "marcela": {
+            "title": "CoFounder",
+            "subtitle": "Digital Law Specialist",
+            "description": "Lawyer | Compliance | Community Manager | Ventiur Ambassador"
+        },
+        "pamela": {
+            "title": "Governance Coordinator",
+            "description": "IT Governance Coordinator at Ativy Digital | PCI DSS"
+        },
+        "renan": {
+            "title": "Forensic Specialist",
+            "description": "Supporter"
+        },
+        "helder": {
+            "title": "Educational Specialist",
+            "description": "Supporter"
+        },
+        "juliano": {
+            "description": "Specialist"
+        },
+        "le": {
+            "description": "Specialist"
+        },
+        "cindy": {
+            "title":"Human Resources Analyst",
+            "description": "Specialist"
+        },
+        "ramon": {
+            "title": "GRC Specialist",
+            "description": "Specialist"
+        },
+        "caio": {
+            "description": "Specialist"
+        },
+        "rafael": {
+            "description": "Specialist"
+        },
+        "ben_hur": {
+            "title": "App Security Specialist",
+            "description": "Specialist"
+        },
+        "ligia": {
+            "description": "Specialist"
+        },
+        "bruno": {
+            "description": "Specialist"
+        },
+        "allan": {
+            "description": "Specialist"
+        },
+        "renan_medeiro": {
+            "description": "Specialist"
+        },
+        "matheus": {
+            "description": "Specialist"
+        },
+        "sylvio": {
+            "title": "GRC Specialist",
+            "description": "Specialist"
+        },
+        "evelyn": {
+            "description": "Specialist"
+        },
+        "helena": {
+            "title": "App Security Specialist",
+            "description": "Specialist"
+        },
+        "andreia": {
+            "title": "Federal Police Criminal Expert",
+            "description": "Specialist"
+        }
+    },
+    "privacy_policy": {
+        "title": "Privacy Policy",
+        "chapter_one": "CHAPTER I. INTRODUCTION",
+        "paragraphy_one": "1.1. We at Hack Your Future recognize the importance of privacy and protection of personal data and want you to become familiar with how we collect, store and process your data. 1.2. Hack Your Future is committed to respecting your privacy and recognize your need for adequate protection and management of any personally identifiable information (“Personal Data”) that you may share with us 1.3 Our Privacy Policy aims to demonstrate our commitment to the security and privacy of information. collected through user registration on the website and webinar platform. ”) and observes the following principles: (a) limiting the use of personal data to what is extremely necessary to meet business purposes (b) access to personal data only by essential people and deletion of data when no longer necessary; (c) additional care in the processing of sensitive personal data; (d) transparency with customers, partners and employees; (e) security of personal data; and (f) establishment of a personal data processing contract with third parties.",
+        "chapter_two": "CHAPTER II. BASIC CONCEPTS",
+        "paragraphy_two": "2.1. To facilitate your understanding, we present some useful definitions for your interpretation: (a) Legal bases: These are the legal hypotheses that authorize us to Process Personal Data: it may be your consent, or compliance with a legal obligation, for example; (b) Consent: This is the hypothesis that authorizes the Processing of Personal Data based on the free, informed and unequivocal expression of the Holder in agreeing to the Processing of their Personal Data for a specific purpose, informed by us; small files that we transfer to your browser or device (such as a cell phone or tablet) that allow us to recognize your browser or device, and know how and when pages and Platforms are visited, as well as how many people access the Platforms. useful for, for example, making the Platforms fit your screen, better understanding your preferences and offering you more efficient Products, Businesses and Experiences (d) Personal Data or Data: This is data relating to a natural person, whatever it is; capable of identifying the person or making identification possible. Examples of Personal Data that allow your identification are: Name, CPF, ID, address, cell phone, email, etc.; (e) Sensitive data: Any information about racial or ethnic origin, religious conviction, political opinion, membership of a trade union or organization of a religious, philosophical or political nature, data relating to health or sexual life, genetic or biometric data, when linked to a natural person; and (f) Person in Charge: This is our Personal Data Protection Officer, who acts as a communication channel between Hack Your Future, Data Subjects and the National Data Protection Authority (“ANPD”) , when it comes to protecting your Personal Data.",
+        "chapter_three": "CHAPTER III. WHAT ARE YOUR RIGHTS",
+        "paragraphy_three": "3.1. The Personal Data is yours and Brazilian law guarantees that you have a series of rights related to it. We are committed to fulfilling these rights and, in this section, we will explain how you can exercise them with Hack Your Future. Brazilian law guarantees you the following rights: (a) Confirmation and Access – Allows you to check whether Hack Your Future processes your personal data and, if so, request a copy of the personal data we have about you. (b) Correction – Allows you to request the correction of your incomplete, inaccurate or outdated Personal Data. (c) Anonymization, blocking or deletion – Allows you to ask us to: (i) anonymize your data, so that it can no longer be related to you and, therefore, ceases to be Personal Data; (ii) block your Data, temporarily suspending its ability to process it; and (iii) delete your Data, in which case we will delete all your Data without the possibility of reversal, except in cases provided for by law. (d) Portability – You have the right to request, upon express request, that Hack Your Future provide you with your Personal Data in a structured and interoperable format. (e) Information about sharing – You have the right to know the public and private entities with which Hack Your Future shares data. If you have questions or want more details, you have the right to ask us for this information. (f) Information about the possibility of not providing consent – ​​Allows you to have clear and complete information about the possibility and consequences of not providing consent. Your consent, when necessary, must be free and informed. Therefore, whenever we ask for your consent, you are free to withhold it. (g) Withdrawal of consent – ​​You have the right to withdraw your consent in relation to processing activities that are based on this Legal Basis. However, this will not affect the legality of any previously carried out processing. If you withdraw your consent, we may not be able to provide certain experiences. (h) Opposition – The General Data Protection Law authorizes the Processing of Personal Data even without your consent. In this case, we must demonstrate that there are legitimate reasons for Processing your Data, such as, for example, preventing fraud or improving our communication with you. If you do not agree with this Processing, you may oppose it, requesting interruption.",
+        "chapter_four": "CHAPTER IV. INFORMATION WE COLLECT",
+        "paragraphy_four": "4.1. Hack Your Future herein referred to as the “Controller”, is committed to collecting as little data as possible. We will never collect unnecessary personal data from you and we will not process your information in any other way than those specified in this policy. 4.2. Hack Your Future collects the following types of personal data (i) provided directly by you, (ii) automatically collected about you: (a) Data provided directly by you: This is information that you actively enter into one of the website's contact forms , social networks, landing pages and/or webinars such as full name and email. Registration data in our community for login: full name, email, LinkedIn profile, professional status, photo to identify you for publicity purposes. , as a member, on the website. It is also possible to process your data to provide you with services, enable you to be linked to study committees, send updates from Hack Your Future (news, events, courses and information about partnerships with companies), respond your queries. (b) Data in one of the registration forms for event newsletters and/or the Hack Your Future newsletter. (c) Data collected automatically: This is information automatically collected about you when using the website, such as IP address (with date and time), type of device used to access the website, type of browser used, location of your device, number your device identifier, click sequence, pages accessed and searches performed.",
+        "chapter_five": "CHAPTER V. HOW WE USE YOUR DATA",
+        "paragraphy_five": "5.1. We, at Hack Your Future, greatly value your privacy. Therefore, all data and information about you is treated as confidential, and we will only use this information for the purposes described here and authorized by you. 5.2. We, at Hack Your Future, we value your information and strictly observe the limits and conditions presented by the General Data Protection Law 5.3 If you have consented to receive communications from us, you may revoke this consent at any time. for the processing of your personal data are detailed below: (a) Sending registration confirmation emails, supplementary materials, evaluation surveys and other information about online events (b) Communication – The personal data collected will also be used for; we may send you important notices and notifications, such as changes to this Policy. Personal data will also be used to respond to any interactions you have with us; (c) Preparation of lists of registrants; (d) Communication about upcoming editions of online events; 5.4. Furthermore, personal data may be used to better understand your tastes and interests and, thus, send more relevant information to you. We may need your consent for some of these activities and therefore your consent will be requested in due course. Without prejudice, we offer several ways for you to unsubscribe from receiving communications of this nature via email at any time by selecting the unsubscribe link at the end of electronic communications. You can request the deletion of your data at any time in accordance with the Owner's rights provided for in current legislation.",
+        "chapter_six": "CHAPTER VI. DELETION OF DATA",
+        "paragraphy_six": "6.1. All collected data will be deleted from our servers when you request it, through a free and easy procedure.",
+        "chapter_seven": "CHAPTER VII. SHARING YOUR DATA",
+        "paragraphy_seven": "7.1. Hack Your Future will only share your personal data with those who have a legitimate need. We do not share or disclose any of your personal data without your consent, except for the purposes specified in this policy or when there is a legal requirement. Operators who act on our behalf only process your data in accordance with our instructions and fully comply with this policy, as well as data protection legislation and any other appropriate confidentiality and security measures 7.2 Our suppliers and partners – We rely on the help of suppliers who. may process Personal Data that we collect. We always seek to carefully evaluate our suppliers and enter into contractual information security and Personal Data protection obligations with them, with the aim of minimizing risks for the Data Holder. Hack Your Future carries out shared use of data. personal data of members with company providing platform hosting service (data center), service providers for maintaining the platform, email hosting service providers. 7.3 We use Google Analytics to generate reports and improve the performance of our website. See Google's privacy policy here. 7.4 The Hack Your Future series of online events takes place on the YouTube platform, and there is no need to register in advance to enjoy the live broadcasts. However, you must have an account on the platform of your choice to enjoy the event. The data used to register on the platforms is their responsibility and is beyond the control of Hack Your Future; We recommend that you read YouTube's Privacy Policy to learn more about the company's efforts to protect your data and how to exercise your rights as a Data Subject. 7.5 The Hack My Future community has an online store on Montink that provides personalized branded items. See Montink's privacy policy here.",
+        "chapter_eigth": "",
+        "paragraphy_eigth": "",
+        "chapter_nine": "CHAPTER IX. SECURITY OF PERSONAL DATA",
+        "paragraphy_nine": "9.1. Hack Your Future is committed to protecting the security of your personal data. We use a wide range of security technologies and procedures to help protect your personal data against unauthorized access, use or disclosure. For example, we store the data information that you provide on servers with limited access that are located in controlled facilities. 9.2 We maintain the security of your information by applying administrative, technical and physical measures to protect personal data against loss, theft, misuse, as well as unauthorized access. , disclosure, alteration and destruction.",
+        "chapter_ten": "CHAPTER X. HOW LONG WILL DATA BE STORED",
+        "paragraphy_ten": "10.1. We will only keep your personal data for as long as necessary to fulfill the purposes for which we collected it. 10.2. WE ADVISE YOU TO REVIEW THIS PRIVACY POLICY PERIODICALLY FOR ANY CHANGES. CHANGES TO THIS PRIVACY POLICY COME INTO EFFECT WHEN PUBLISHED ON THIS PAGE.",
+        "chapter_eleven": "CHAPTER XI. HOW TO TALK TO HACK YOUR FUTURE",
+        "paragraphy_eleven": "11.1 To exercise your rights you can contact us via email at compliance@ihackmyfuture.com. 11.2. If you have any questions about the collection and processing of your personal data, you can contact us via from email compliance@ihackmyfuture.com. 11.3. Our Personal Data Protection Officer (Article 41 – Law 13,709/2018 – LGPD): Ricardo Rocha, Marcela Castro, Pamela Barros."
+    }
+}
