@@ -36,7 +36,7 @@ export const Title = styled.div`
     align-items: center;
 
     h2 {
-        font-size: 2.3rem;
+        font-size: 1.8rem;
     }
 `
 
@@ -57,6 +57,7 @@ export const Items = styled.div`
     @media screen and (min-width: 320px) and (max-width: 600px){
         padding: 0rem;  
         margin: 0rem 1.1rem 1rem 1.1rem;  
+        flex-direction: column;
 
         p {
             font-size: 1rem;          
@@ -72,6 +73,7 @@ export const ItemsLogo = styled.div`
     align-items: center;
     gap: 15px;
     width: 70%;
+    /* display: none; */
 
     img {
         width: 250px;
@@ -79,10 +81,10 @@ export const ItemsLogo = styled.div`
 
     @media screen and (min-width: 320px) and (max-width: 600px){
         padding: 0rem;  
-        margin: 0rem 1.1rem 1rem 1.1rem; 
+        gap: 5px;
 
         img {
-            display: none;
+            width: 70px;
         }
     }
 `
